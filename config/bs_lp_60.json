@@ -1,9 +1,6 @@
 {
-    "id": "bs_lp_60",
-    "name": "Rechteck",
     "layouts": {
-        "default_transform": {
-            "name": "default_transform",
+        "LAYOUT": {
             "layout": [
                 {
                     "row": 0,
