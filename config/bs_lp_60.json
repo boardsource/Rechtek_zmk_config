@@ -1,6 +1,9 @@
 {
+    "id": "bs_lp_60",
+    "name": "Rechteck",
     "layouts": {
-        "LAYOUT": {
+        "default_transform": {
+            "name": "default_transform",
             "layout": [
                 {
                     "row": 0,
@@ -386,4 +389,5 @@
             ]
         }
     },
+    "sensors": []
 }
